@@ -216,6 +216,6 @@ h3.article-title a:hover {
     text-decoration: none;
     transition: color 0.6s ease;
 }
-.fa-chevron-up:before{
+.fa-chevron-up:before, .fa-bars:before{
       color: var(--MENU-SECTIONS-LINK-color) !important;
 }
