@@ -25,10 +25,13 @@ menu:
 weight: 1100
 ---
 
-
 **Test 02**
 
 ## 10 million. 
+
+[Blaaah link](https://duckduckgo.com) 
+
+![Image](/home/kai/Dev/ATF/static/img/side-bg.png) 
 
 That’s now the global total of virus infections. Less than a week ago it was 9 million. Deaths are over 500,000. In the US, Texas and Arizona have banned bar drinking as Covid surges in the sunbelt, and 5.3% of NBA players tested are coming back positive as a worrying benchmark; in the UK, Leicester faces a new local 
 

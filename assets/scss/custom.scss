@@ -2,24 +2,23 @@
 :root{
 
     --MAIN-TEXT-color: #365264; /* Color of text by default */
-    --MAIN-TITLES-TEXT-color: #1b2932; /* Color of titles h1-h2-h3-h4-h5 */
-    --MAIN-LINK-color: #4169e1; /* Color of links */
+    --MAIN-TITLES-TEXT-color: #365264; /* Color of titles h1-h2-h3-h4-h5 */
+    --MAIN-LINK-color: #365264; /* Color of links */
     --MAIN-LINK-HOVER-color: #1e90ff ; /* Color of hovered links */
-    --MAIN-ANCHOR-color: #1C90F3; /* color of anchors on titles */
+    --MAIN-ANCHOR-color: #365264; /* color of anchors on titles */
 
     --MENU-HEADER-BG-color: #1C90F3; /* Background color of menu header */
     --MENU-HEADER-BORDER-color: white; /*Color of menu header border */
 
     --MENU-SEARCH-BG-color: #cfebfd; /* Search field background color (by default borders + icons) */
-    --MENU-SEARCH-BOX-color: #abdcfb; /* Override search field border color */
+    --MENU-SEARCH-BOX-color: #c3e6fc; /* Override search field border color */
     --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
 
     --MENU-SECTIONS-ACTIVE-BG-color: transparent; /* Background color of the active section and its childs */
     --MENU-SECTIONS-BG-color: transparent; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #365264; /* Color of links in menu */
-    --MENU-SECTIONS-LINK-HOVER-color: #6ca4c8;  /* Color of links in menu, when hovered */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #4169e1; /* Color of active category text */
-    --MENU-SECTION-ACTIVE-CATEGORY-BG-color: transparent; /* Color of background for the active category (only) */
+    --MENU-SECTIONS-LINK-HOVER-color: #1e90ff ;  /* Color of links in menu, when hovered */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #1e90ff; /* Color of active category text */
 
     --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #20272b; /* Color of <hr> separator in menu */
@@ -28,47 +27,12 @@
 
 body {
     color: var(--MAIN-TEXT-color) !important;
+    background-image: linear-gradient(0.05turn, #bae3fa, #ebf8e1, #ffe5bd);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
 }
-.home-section:nth-of-type(even) {
-    background-color: transparent;
-}
-.home-section {
-    background-color: transparent;
-}
-body {
-  background-image: linear-gradient(0.05turn, #bae3fa, #ebf8e1, #ffe5bd);
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: whitesmoke;
-}
-
-
-textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
-    border-color: none;
-    box-shadow: none;
-}
-
-h1, h2, h3, h4, h5 {
-    color: var(--MAIN-TITLES-TEXT-color) !important;
-}
-
-a {
-    color: var(--MAIN-LINK-color);
-}
-
-.anchor {
-    color: var(--MAIN-ANCHOR-color);
-}
-
-a:hover {
-    color: var(--MAIN-LINK-HOVER-color);
-}
-
-.docs-sidebar ul li.visited > a .read-icon {
-	color: var(--MENU-VISITED-color);
-}
-
 #body a.highlight:after {
     display: block;
     content: "";
@@ -80,12 +44,94 @@ a:hover {
     transition: width 0.5s ease;
     background-color: var(--MAIN-LINK-HOVER-color);
 }
+#body .tags a.tag-link {
+    background-color: var(--MENU-HEADER-BG-color);
+}
+
+#body .tags a.tag-link:before {
+    border-right-color: var(--MENU-HEADER-BG-color);
+}
+.home-section:nth-of-type(even) {
+    background-color: transparent;
+}
+.home-section {
+    background-color: transparent;
+}
+
+a {
+    color: var(--MAIN-LINK-color);
+    text-decoration: underline dotted;
+
+}
+a:hover {
+    color: var(--MAIN-LINK-HOVER-color);
+}
+.navbar-light .navbar-brand {
+    color: var(--MAIN-TEXT-color) !important;text-decoration: none;
+}
+.navbar-light:hover .navbar-brand:hover{
+    color: var(--MAIN-LINK-HOVER-color) !important;
+}
+#navbar-main .main-menu-item ul li .nav-link {
+    text-decoration: none;
+}
+.navbar .navbar-nav .nav-link:link {
+    font-weight: bold !important;
+    color: var(--MAIN-LINK-color) !important;
+}
+.navbar .navbar-nav .nav-link:visited {
+    font-weight: bold !important;
+    color: var(--MAIN-LINK-color) !important;
+}
+.navbar .navbar-nav .nav-link:hover{
+    font-weight: bold !important;
+    color: var(--MAIN-LINK-HOVER-color) !important;
+}
+textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
+    border-color: none;
+    box-shadow: none;
+}
+
+h1, h2, h3, h4, h5 {
+    color: var(--MAIN-TITLES-TEXT-color) !important;
+}
+
+.anchor {
+    color: var(--MAIN-ANCHOR-color);
+}
+
+.article-title a:link, .author-card a:link, .card-title a:link, .tag-cloud a:link, a:link.badge.badge-light {
+    font-weight: bold !important;
+    color: var(--MAIN-LINK-color) !important;
+    text-decoration: none;
+    background: none;
+}
+.article-title, .author-card a:visited, .card-title a:visited, .tag-cloud a:visited, a:visited.badge.badge-light  {
+    font-weight: bold !important;
+    color: var(--MAIN-LINK-color) !important;
+    background: none;
+
+}
+.article-title, .author-card a:hover, .card-title a:hover, .tag-cloud a:hover, a:hover.badge.badge-light  {
+    font-weight: bold !important;
+    color: var(--MAIN-LINK-HOVER-color) !important;
+
+}
+.author-card .card-title a {
+    color: rgba(0, 0, 0, 0.84);
+}
+.docs-sidebar ul li.visited > a .read-icon {
+	color: var(--MENU-VISITED-color);
+}
+
 .docs-sidebar {
    border: none;
 }
 .navbar{
 	 background-color: #d0ecfd;
-   border: none;
+   border-bottom: solid 1px #c3e6fc;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0);
+
 }
 .docs-sidebar #header-wrapper {
     background: var(--MENU-HEADER-BG-color);
@@ -104,7 +150,7 @@ a:hover {
 }
 
 .docs-sidebar a {
-    color: var(--MENU-SECTIONS-LINK-color);
+    color: var(--MENU-SECTIONS-LINK-color);text-decoration: none;
 }
 
 .docs-sidebar a:hover {
@@ -115,22 +161,19 @@ a:hover {
     background: var(--MENU-SECTION-ACTIVE-CATEGORY-BG-color);
     color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
 }
+.docs-sidebar .nav > li > a {
+    color: var(--MAIN-TEXT-color) !important;
+}
+.docs-sidebar .nav > li > a:hover {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
+}
 
 .docs-sidebar hr {
     border-color: var(--MENU-SECTION-HR-color);
 }
-
-#body .tags a.tag-link {
-    background-color: var(--MENU-HEADER-BG-color);
-}
-
-#body .tags a.tag-link:before {
-    border-right-color: var(--MENU-HEADER-BG-color);
-}
 .docs-sidebar .docs-toc-item.active a, .docs-sidebar .nav > .active:hover > a, .docs-sidebar .nav > .active > a {
     font-weight: normal;
-    color: #4169e1;
-    background-color: transparent;
+    color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
 }
 .docs-sidebar .nav > li > a {
     display: block;
@@ -144,4 +187,35 @@ a:hover {
 }
 .docs-toc-item{
   line-height: 0.9em;
+}
+a:link.badge.badge-light{
+  background: none;
+}
+a:visited.badge.badge-light{
+  background: none;
+}
+a:hover.badge.badge-light{
+  background: none;
+}
+.article-title a {
+    color: var(--MENU-SECTIONS-LINK-color);
+    transition: color 0.6s ease;
+}
+h3.article-title a:link {
+    color: var(--MENU-SECTIONS-LINK-color) !important;
+    text-decoration: none;
+    transition: color 0.6s ease;
+}
+h3.article-title a:visited {
+    color: var(--MENU-SECTIONS-LINK-color) !important;
+    text-decoration: none;
+    transition: color 0.6s ease;
+}
+h3.article-title a:hover {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
+    text-decoration: none;
+    transition: color 0.6s ease;
+}
+.fa-chevron-up:before{
+      color: var(--MENU-SECTIONS-LINK-color) !important;
 }

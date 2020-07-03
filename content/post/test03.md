@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Test02"
+title: "Test03"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-06-25T19:17:01+01:00
-lastmod: 2020-06-25T19:17:01+01:00
+date: 2020-07-03T12:22:57+01:00
+lastmod: 2020-07-03T12:22:57+01:00
 featured: false
 draft: false
 
@@ -32,5 +32,4 @@ projects: []
 
 ![Image](/home/kai/Dev/ATF/static/img/side-bg.png) 
 
-E.g. projects = internal-project    
-references `content/project/deep-learning/index.md`.
+E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
