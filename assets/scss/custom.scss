@@ -1,3 +1,84 @@
+@font-face {
+    font-family: 'Arizonia';
+    src: url('/fonts/arizonia/subset-Arizonia-Regular.woff2') format('woff2'),
+        url('/fonts/arizonia/subset-Arizonia-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-Light.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-Bold.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-LightItalic.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-Medium.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-Italic.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-BoldItalic.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/subset-Ubuntu-MediumItalic.woff2') format('woff2'),
+        url('/fonts/ubuntu/subset-Ubuntu-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+
 
 :root{
 
@@ -22,34 +103,37 @@
 
     --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #20272b; /* Color of <hr> separator in menu */
-
+    --font-family-sans-serif: Ubuntu;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
-
+html {
+	font-family: "Ubuntu"
+}
 body {
     color: var(--MAIN-TEXT-color) !important;
-    background-image: linear-gradient(0.05turn, #bae3fa, #ebf8e1, #ffe5bd);
+    background-image: linear-gradient(0.15turn, #bae3fa, #ebf8e1, #ffe5bd);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-color: whitesmoke;
 }
-#body a.highlight:after {
-    display: block;
-    content: "";
-    height: 1px;
-    width: 0%;
-    -webkit-transition: width 0.5s ease;
-    -moz-transition: width 0.5s ease;
-    -ms-transition: width 0.5s ease;
-    transition: width 0.5s ease;
-    background-color: var(--MAIN-LINK-HOVER-color);
+
+
+.navbar-brand {
+	font-family: "Arizonia";
+  font-size: 1.6rem;
+  font-weight: normal;
+	line-height: 1.25;
+	text-rendering: optimizeLegibility;
+
 }
-#body .tags a.tag-link {
-    background-color: var(--MENU-HEADER-BG-color);
+#navbar-content{
+  font-family: "Ubuntu";
+	text-rendering: optimizeLegibility;
 }
 
-#body .tags a.tag-link:before {
-    border-right-color: var(--MENU-HEADER-BG-color);
+h1, h2, h3, h4, h5, h6,{
+  font-family: "Ubuntu";
 }
 .home-section:nth-of-type(even) {
     background-color: transparent;
@@ -76,15 +160,15 @@ a:hover {
     text-decoration: none;
 }
 .navbar .navbar-nav .nav-link:link {
-    font-weight: bold !important;
+    font-weight: normal !important;
     color: var(--MAIN-LINK-color) !important;
 }
 .navbar .navbar-nav .nav-link:visited {
-    font-weight: bold !important;
+    font-weight: normal !important;
     color: var(--MAIN-LINK-color) !important;
 }
 .navbar .navbar-nav .nav-link:hover{
-    font-weight: bold !important;
+    font-weight: normal !important;
     color: var(--MAIN-LINK-HOVER-color) !important;
 }
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
@@ -141,11 +225,6 @@ h1, h2, h3, h4, h5 {
 .docs-sidebar .form-control {
 	border-color: var(--MENU-SEARCH-BOX-color);
     background: var(--MENU-SEARCH-BG-color);
-}
-.docs-sidebar ul.docs-sidenav > li.active {
-    background: var(--MENU-SECTIONS-ACTIVE-BG-color);
-}
-.docs-sidebar .form-control * {
     color: var(--MENU-SEARCH-BOX-ICONS-color);
 }
 
@@ -166,10 +245,6 @@ h1, h2, h3, h4, h5 {
 }
 .docs-sidebar .nav > li > a:hover {
     color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
-}
-
-.docs-sidebar hr {
-    border-color: var(--MENU-SECTION-HR-color);
 }
 .docs-sidebar .docs-toc-item.active a, .docs-sidebar .nav > .active:hover > a, .docs-sidebar .nav > .active > a {
     font-weight: normal;
@@ -218,4 +293,22 @@ h3.article-title a:hover {
 }
 .fa-chevron-up:before, .fa-bars:before{
       color: var(--MENU-SECTIONS-LINK-color) !important;
+}
+.article{padding-left: 0px;
+    background-image: url("");
+  background-repeat: repeat-y;
+}
+.cta-btns .btn{display: none;}
+.pl-4, .px-4 {
+	padding-left: 0px !important;
+}
+hr {
+  width: 60%;
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, #1C90F3, #365264, #1C90F3);
+}
+.logo-navbar{
+  float: left;
+  margin-right: 0.4em;
 }
