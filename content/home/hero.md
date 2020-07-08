@@ -39,11 +39,11 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta]
-  url = "https://sourcethemes.com/academic/"
-  label = ""
+  url = "timeless-guidance"
+  label = "Explore: Timeless Guidance >>"
   
   [cta_alt]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "timeless-guidance"
   label = "Explore: Timeless Guidance >>"
   
 
@@ -51,8 +51,9 @@ hero_media = ""
 
 +++
 
-*Exploring the wisdom of the ancient sages to empower you to act in freedom and with decisive wisdom*
+*We can be free.  
+The ancient seers and meditators were free ... and they left us guidance setting out clearly how we all can achieve liberation.*
 
-Yoga is **Wisdom in action**
+Spiritual practice, Yoga, is  **Action Towards Freedom**.  
 
 

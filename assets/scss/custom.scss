@@ -91,7 +91,7 @@
     --MENU-HEADER-BG-color: #1C90F3; /* Background color of menu header */
     --MENU-HEADER-BORDER-color: white; /*Color of menu header border */
 
-    --MENU-SEARCH-BG-color: #cfebfd; /* Search field background color (by default borders + icons) */
+    --MENU-SEARCH-BG-color: #dbf0fd; /* Search field background color (by default borders + icons) */
     --MENU-SEARCH-BOX-color: #c3e6fc; /* Override search field border color */
     --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
 
@@ -144,7 +144,9 @@ h1, h2, h3, h4, h5, h6,{
 .home-section {
     background-color: transparent;
 }
-
+.home-section:first-of-type {
+    padding-top: 24px;
+}
 a {
     color: var(--MAIN-LINK-color);
     text-decoration: underline dotted;
@@ -173,6 +175,22 @@ a:hover {
 .navbar .navbar-nav .nav-link:hover{
     font-weight: normal !important;
     color: var(--MAIN-LINK-HOVER-color) !important;
+}
+#TableOfContents a.nav-link:link, a#back_to_top.docs-toc-title:link {
+    font-weight: normal !important;
+    color: var(--MAIN-LINK-color) !important;
+    text-decoration: none;
+}
+#TableOfContents a.nav-link:visited, a#back_to_top.docs-toc-title:visited {
+    font-weight: normal !important;
+    color: var(--MAIN-LINK-color) !important;
+    text-decoration: none;
+
+}
+#TableOfContents a.nav-link:hover, a#back_to_top.docs-toc-title:hover {
+    font-weight: normal !important;
+    color: var(--MAIN-LINK-HOVER-color) !important;
+    text-decoration: none;
 }
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
     border-color: none;
@@ -316,3 +334,7 @@ hr {
   margin-right: 0.4em;
   width: 51px;
 }
+b, strong {
+	font-weight: 600;
+}
+.fa-angle-right{display: none;}
