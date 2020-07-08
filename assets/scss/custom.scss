@@ -134,6 +134,9 @@ body {
 
 h1, h2, h3, h4, h5, h6,{
   font-family: "Ubuntu";
+    font-weight: 300;
+    font-style: normal;
+      color: var(--MAIN-TITLES-TEXT-color) !important;
 }
 .home-section:nth-of-type(even) {
     background-color: transparent;
@@ -176,16 +179,12 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: none;
 }
 
-h1, h2, h3, h4, h5 {
-    color: var(--MAIN-TITLES-TEXT-color) !important;
-}
-
 .anchor {
     color: var(--MAIN-ANCHOR-color);
 }
 
 .article-title a:link, .author-card a:link, .card-title a:link, .tag-cloud a:link, a:link.badge.badge-light {
-    font-weight: bold !important;
+    font-weight: normal !important;
     color: var(--MAIN-LINK-color) !important;
     text-decoration: none;
     background: none;
@@ -311,4 +310,9 @@ hr {
 .logo-navbar{
   float: left;
   margin-right: 0.4em;
+}
+.logo-page{
+  float: left;
+  margin-right: 0.4em;
+  width: 51px;
 }
