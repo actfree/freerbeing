@@ -28,7 +28,7 @@ projects: []
 
 **Karma can be easily misunderstood**
 
-Karma is often seen as some kind of sliding-scale points system, set in the terms of the material world.
+Karma is often just seen as some kind of sliding-scale points system, set in the terms of the material world.
 Do good things get good things.
 Do bad things get bad things.
 Gold stars for good behaviour.
@@ -129,7 +129,7 @@ Yoga/meditation provide tools and techniques for helping us to do exactly this.
 Working with these tools we come more and more into understanding ourselves as the Whole, as the One.
 I will offer more detail on the many options available in future articles, I'm just laying the groundwork here :)
 
-**Here's the basic process;**  
+**Here's the basic process;**
 
 As our minds become quieter we come more and more to centre in our Consciousness.
 We come to identify with the Reality of Our True Self rather than our small ego self.
