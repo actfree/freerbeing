@@ -57,4 +57,4 @@ MOVEMENT ✭ BREATH ✭ MEDITATION
 
 Exploring useful themes, tools and
 techniques for supporting modern life,
-based in classical spirituality
+based in classical spirituality  
