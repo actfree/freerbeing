@@ -91,10 +91,6 @@
     --MENU-HEADER-BG-color: #1C90F3; /* Background color of menu header */
     --MENU-HEADER-BORDER-color: white; /*Color of menu header border */
 
-    --MENU-SEARCH-BG-color: #dbf0fd; /* Search field background color (by default borders + icons) */
-    --MENU-SEARCH-BOX-color: #c3e6fc; /* Override search field border color */
-    --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
-
     --MENU-SECTIONS-ACTIVE-BG-color: transparent; /* Background color of the active section and its childs */
     --MENU-SECTIONS-BG-color: transparent; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #365264; /* Color of links in menu */
@@ -111,7 +107,7 @@ html {
 }
 body {
     color: var(--MAIN-TEXT-color) !important;
-    background-image: linear-gradient(0.15turn, #bae3fa, #ebf8e1, #ffe5bd);
+    background-image: linear-gradient(0.15turn, #e3f3fa, #ffffff, #fff6e7);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -338,3 +334,6 @@ b, strong {
 	font-weight: 600;
 }
 .fa-angle-right{display: none;}
+a.nav-link.dropdown-toggle {text-decoration: none;}
+.dropdown-item{text-decoration: none;}
+.docs-search { border-bottom: none;}

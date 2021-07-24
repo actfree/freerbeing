@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
@@ -27,3 +25,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+​	

@@ -1,4 +1,3 @@
-
 ############################
 ## Theme
 ############################
@@ -96,7 +95,7 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = true
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = false
