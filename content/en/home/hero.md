@@ -49,8 +49,12 @@ hero_media = ""
 
 
 +++
-Applying the timeless guidance of the ancient Yogi seers supports and guides us in our modern lives ...  
-Yoga is:  
-**action towards freedom ...  
-movement towards stillness ...  
-doing towards being ...**
+**Practising together
+Walking our own path independently**
+
+Consciously integrating
+MOVEMENT ✭ BREATH ✭ MEDITATION
+
+Exploring useful themes, tools and
+techniques for supporting modern life,
+based in classical spirituality
