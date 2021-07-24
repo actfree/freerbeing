@@ -11,12 +11,12 @@
 [[main]]
   name = "Posts"
   url = "post"
-  weight = 20
+  weight = 24
 
-[[main]]
-  name = "Timeless Guidance"
-  url = "timeless-guidance"
-  weight = 30
+#[[main]]
+#  name = "Timeless Guidance"
+#  url = "timeless-guidance"
+#  weight = 30
 # [[main]]
 # name = "Contact"
 # url = "#contact"
