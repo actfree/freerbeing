@@ -107,7 +107,8 @@ html {
 }
 body {
     color: var(--MAIN-TEXT-color) !important;
-    background-image: linear-gradient(0.15turn, #e3f3fa, #ffffff, #fff6e7);
+    background-image: linear-gradient(0.15turn, #b0e2ff, #ffffd8
+, #ffffb2);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -117,7 +118,7 @@ body {
 
 .navbar-brand {
 	font-family: "Arizonia";
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: normal;
 	line-height: 1.25;
 	text-rendering: optimizeLegibility;

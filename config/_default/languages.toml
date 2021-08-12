@@ -11,9 +11,9 @@
 [es]
   languageCode = "es"
   contentDir = "content/es"
-  title = "Acción hacia la Libertad"
+  title = "Ser más libre"
   [es.params]
-#    description = "Site description in Chinese..."
+    description = "Espiritualidad práctica"
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"

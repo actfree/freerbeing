@@ -24,11 +24,11 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Spiritual practice, Yoga, is Action Towards Freedom."
+site_type = "Practical spirituality"
 
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "We can be free. The ancient seers and meditators were free … and they left us guidance setting out clearly how we all can achieve liberation."
+description = "Exploring useful themes, tools and techniques for supporting modern life, and experiencing Truth, based in classical spirituality"
 
 ############################
 ## Site Features
@@ -71,7 +71,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "/img/icon.png"
+# sharing_image = "/img/icon.png"
 
 ############################
 ## Regional Settings
