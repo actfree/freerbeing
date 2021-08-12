@@ -49,5 +49,5 @@ title = ""
 +++
 
 Exploring useful themes, tools and techniques
-for supporting modern life, and experiencing Truth,
+for supporting and deepening modern life, and experiencing Truth,
 based in classical spirituality
