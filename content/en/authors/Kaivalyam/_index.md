@@ -44,7 +44,7 @@ As a child Kai was full of joy, light and love,\
 singing, laughing and praying often\
 Discovering yoga in 1986 he continued to make many 'wrong' turns,\
 spending much time lost in the dark\
-Spiritual practice was, and is, his saviour\
+Spiritual practice, and the Truth it reveals, was, and is, his saviour\
 He committed to daily self-practice and study in 2004\
 and started leading groups in 2006
 
