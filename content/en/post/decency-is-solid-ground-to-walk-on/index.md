@@ -41,9 +41,9 @@ How we behave towards others reveals our state of mind and our personality
 ### Patanjali's Yamas:
 - Non-harm, consideration
 - Truthfulness, right communication
-- Non-stealing, not taking that which is not ours,
+- Non-stealing, not taking that which is not ours
 - Moderation, right direction of our energy/attention
-- Non-coveting, not covetousness
+- Not coveting, grabbing or accumulating
 
 The Buddha added:
 - Non-intoxication
