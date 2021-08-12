@@ -3,7 +3,7 @@ title: "In Our Practice We Engage the Purpose of Life"
 subtitle: "Spirit illuminates and animates nature"
 summary: "Why Life? Why our individual lives?"
 authors: []
-tags: []
+tags: ["yoga sutras", "samkhya"]
 categories: []
 date: 2021-08-12T18:52:43+01:00
 lastmod: 2021-08-12T18:52:43+01:00
@@ -35,5 +35,9 @@ Spirit illuminates and animates nature\
 The resulting movements in nature create experience for Spirit in order that It can come to comprehend Itself
 
 Our confusion of the two aspects leads to disharmony and suffering, but, correctly understood, they lead to bliss and freedom\
-Worldly experience is for the liberation of Soul by understanding\
-Yoga spiritual practice is applied *Samkhya*, consciously engaging with this purpose, and supports us as we move towards understanding
+Worldly experience is for the liberation of Soul by understanding
+
+Yoga spiritual practice is applied *Samkhya*, consciously engaging with this purpose, and supports us as we move towards the wisdom, and freedom,  that comes with understanding
+
+>*Yoga sutra II:23*\
+>sva-svāmi-śaktyoḥ svarūpa-upalabdhi-hetuḥ saṃyogaḥ
