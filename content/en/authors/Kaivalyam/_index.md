@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Freer Being . Path Walker
+role: Freedom Finder . Path Walker
 
 # Organizations/Affiliations
 organizations:
@@ -23,6 +23,7 @@ organizations:
 interests:
 - Practical application of principles of spirituality
 - Applying ancient wisdom/science to modern life
+- Deepest Truth
 
 experience:
   - Lifelong interest in things "spiritual"
@@ -39,10 +40,15 @@ user_groups:
 - Visitors
 ---
 
-As a child Kai was full of joy, light and love,
-singing, laughing and praying often.
-He has taken many 'wrong' turns,
-spending much time lost in the dark.
-He committed to daily self-practice in 2004,
-and started leading groups in 2006.
-He has found his light again.
+As a child Kai was full of joy, light and love,\
+singing, laughing and praying often\
+Discovering yoga in 1986 he continued to make many 'wrong' turns,\
+spending much time lost in the dark\
+Spiritual practice was, and is, his saviour\
+He committed to daily self-practice and study in 2004\
+and started leading groups in 2006
+
+Kai has found his light again\
+He feels graced and is grateful
+
+All work is offered with love, in the spirit of service
