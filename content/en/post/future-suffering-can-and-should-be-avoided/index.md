@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Future Suffering Can and Should Be Avoided"
-subtitle: ""
-summary: "There is suffering, there is a cause of suffering, there is an end to suffering, there is a path to the end of suffering| "
+subtitle: "We are responsible for our own actions and their results"
+summary: "There is suffering, there is a cause of suffering, there is an end to suffering, there is a path to the end of suffering"
 authors: []
 tags: ["yoga sutras", "suffering"]
 categories: []
