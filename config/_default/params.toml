@@ -28,7 +28,7 @@ site_type = "Practical spirituality"
 
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Exploring useful themes, tools and techniques for supporting and deepening modern life, and experiencing Deeper Truth, based in classical spirituality"
+description = "Exploring useful themes, tools and techniques for supporting and deepening modern life, and experiencing Deeper Truth, based in practical, classical spirituality"
 
 ############################
 ## Site Features
@@ -102,7 +102,7 @@ sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "You are free to use this work in any way you choose. A credit and a link back is always appreciated."}
+copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "You are free to use this work in any non-commerical way you choose. A credit and a link back is always appreciated."}
 
 # Highlight the site author (superuser) in author lists? (true/false)
 highlight_superuser = false

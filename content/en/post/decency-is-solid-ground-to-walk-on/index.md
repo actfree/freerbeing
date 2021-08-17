@@ -30,8 +30,9 @@ image:
 An established decency and integrity in how we
  interact with those around us provides a firm foundation
 for us to walk our individual paths on\
-Indeed, it is essential to successful progress\
-Patañjali offered us the yamas\
+Indeed, it is essential to successful progress
+
+Patañjali offered us the *yamas*\
 They are universal principles, foundational to a
 healthy society
 
@@ -39,7 +40,7 @@ We are, from birth, inter-dependent on others, morality guides us to build healt
 How we behave towards others reveals our state of mind and our personality
 
 ### Patanjali's Yamas:
-- Non-harm, consideration
+- Non-harm, non-violence, consideration and kindness
 - Truthfulness, right communication
 - Non-stealing, not taking that which is not ours
 - Moderation, right direction of our energy/attention

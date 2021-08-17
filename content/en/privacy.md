@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 date: "2018-06-28T00:00:00+01:00"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,9 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+This website collects no personally identifiable data whatsoever\
+I do collect anonymous access data so I can assess the websites performance\
+I will never sell or otherwise pass-on any such data collected
+
+My website content delivery provider may also collect anonymous data\
+They are bound by European data protection laws

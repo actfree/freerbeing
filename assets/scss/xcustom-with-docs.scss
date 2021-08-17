@@ -14,6 +14,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-Light.woff2') format('woff2'),
@@ -22,6 +23,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-Bold.woff2') format('woff2'),
@@ -30,6 +32,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-LightItalic.woff2') format('woff2'),
@@ -38,6 +41,7 @@
     font-style: italic;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-Medium.woff2') format('woff2'),
@@ -46,6 +50,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-Italic.woff2') format('woff2'),
@@ -54,6 +59,7 @@
     font-style: italic;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-BoldItalic.woff2') format('woff2'),
@@ -62,6 +68,7 @@
     font-style: italic;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/ubuntu/subset-Ubuntu-MediumItalic.woff2') format('woff2'),
@@ -70,6 +77,9 @@
     font-style: italic;
     font-display: swap;
 }
+
+
+
 :root{
 
     --MAIN-TEXT-color: #365264; /* Color of text by default */
@@ -104,6 +114,8 @@ body {
     background-repeat: no-repeat;
     background-color: whitesmoke;
 }
+
+
 .navbar-brand {
 	font-family: "Arizonia";
   font-size: 2rem;
@@ -196,6 +208,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     font-weight: bold !important;
     color: var(--MAIN-LINK-color) !important;
     background: none;
+
 }
 .article-title, .author-card a:hover, .card-title a:hover, .tag-cloud a:hover, a:hover.badge.badge-light  {
     font-weight: bold !important;
@@ -204,6 +217,65 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 .author-card .card-title a {
     color: rgba(0, 0, 0, 0.84);
+}
+.docs-sidebar ul li.visited > a .read-icon {
+	color: var(--MENU-VISITED-color);
+}
+
+.docs-sidebar {
+   border: none;
+}
+.navbar{
+	 background-color: #d0ecfd;
+   border-bottom: solid 1px #c3e6fc;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0);
+
+}
+.docs-sidebar #header-wrapper {
+    background: var(--MENU-HEADER-BG-color);
+    color: var(--MENU-SEARCH-BOX-color);
+    border-color: var(--MENU-HEADER-BORDER-color);
+}
+.docs-sidebar .form-control {
+	border-color: var(--MENU-SEARCH-BOX-color);
+    background: var(--MENU-SEARCH-BG-color);
+    color: var(--MENU-SEARCH-BOX-ICONS-color);
+}
+
+.docs-sidebar a {
+    color: var(--MENU-SECTIONS-LINK-color);text-decoration: none;
+}
+
+.docs-sidebar a:hover {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color);
+}
+
+.docs-sidebar ul li.active > a {
+    background: var(--MENU-SECTION-ACTIVE-CATEGORY-BG-color);
+    color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
+}
+.docs-sidebar .nav > li > a {
+    color: var(--MAIN-TEXT-color) !important;
+}
+.docs-sidebar .nav > li > a:hover {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
+}
+.docs-sidebar .docs-toc-item.active a, .docs-sidebar .nav > .active:hover > a, .docs-sidebar .nav > .active > a {
+    font-weight: normal;
+    color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
+}
+.docs-sidebar .nav > li > a {
+    display: block;
+    padding: .16rem 1.5rem;
+    font-size: 0.66rem;
+}
+.docs-toc-link {
+    display: block;
+    padding: .16rem 1.5rem;
+    font-weight: normal;
+}
+.docs-toc-item{
+  line-height: 0.9em;
 }
 a:link.badge.badge-light{
   background: none;
@@ -266,3 +338,8 @@ b, strong {
 a.nav-link.dropdown-toggle {text-decoration: none;}
 .dropdown-item{text-decoration: none;}
 .docs-search { border-bottom: none;}
+
+.col-md-5 {
+	flex: 0 0 96.66666667%;
+	max-width: 96.66666667%;
+}

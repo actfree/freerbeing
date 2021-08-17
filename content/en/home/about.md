@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 180  # Order that this section will appear in.
 
-title = "About"
+title = "A little bit about ..."
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
