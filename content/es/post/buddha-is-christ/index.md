@@ -18,7 +18,7 @@ image:
 ---
 La palabra "Cristo" se refiere al alcance de un estado superior de ser/conciencia
 
-El nombre de la persona que llamamos "Buda" era en realidad Shakyamuni Siddharta Gotama\
+El nombre de la persona que llamamos "Buda" era en realidad llamado Shakyamuni Siddharta Gotama\
 De nuevo, "Buda" se refiere a un estado de ser iluminado
 
 Estas palabras son un reconocimiento, un espaldarazo, un honor que se otorga a alguien que alcanza la plena realización de nuestra Verdad Interior humana común
