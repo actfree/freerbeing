@@ -1,6 +1,6 @@
 ---
 # Display name
-title: An invisible yogi
+title: an invisible yogi
 
 # Username (this should match the folder name)
 authors:
@@ -36,6 +36,8 @@ I am grateful
 My studies and application of ancient wisdom come largely from the Yoga/Samkhya model\
 I also find value in drawing from other traditions, such as Gnostic Christianity, Buddhism, Quantum Physics, and in the many, and often unexpected, places where I recognise Truth, or at least the attempt to express such\
 I find the parallels, and the contrasts, between perspectives to be useful and interesting
+
+My heartfelt thanks go to all those many people that have held-up a light and shown me the way
 
 All my work is offered freely, with love, in the spirit of service\
 If you like it, please consider sharing it\

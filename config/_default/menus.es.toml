@@ -9,6 +9,6 @@
  weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Puestos"
   url = "post"
   weight = 20

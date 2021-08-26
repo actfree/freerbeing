@@ -1,7 +1,7 @@
 ---
-title: Terms
+title: Términos
 date: "2018-06-28T00:00:00+01:00"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,9 +12,9 @@ header:
   image: ""
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Puedes compartir el contenido que encuentres aquí de la forma que prefieras\
+Siempre se agradece una atribución y/o un enlace de vuelta\
+No deseo que ninguno de mis trabajos sea utilizado comercialmente, gracias por su comprensión.
 
-
-
-# Do whatever you want ...
-
+He utilizado imágenes tomadas de diversas fuentes\
+Me gustaría aprovechar esta oportunidad para agradecer a los autores de esas imágenes

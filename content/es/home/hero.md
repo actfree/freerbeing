@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+#hero_media = "mountains.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,8 +24,8 @@ hero_media = ""
   # gradient_end = "#2b94c3"
 
   # Background image.
-   image = "mountains.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "mountains.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "top"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
@@ -38,20 +38,14 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 
 # Note. An optional note to show underneath the links.
-[cta]
-  url = "https://sourcethemes.com/academic/"
-  label = ""
+#[cta]
+#  url = "/timeless-guidance"
+#  label = ""
 
-  [cta_alt]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Explore: Timeless Guidance >>"
-
-
+  #[cta_alt]
+#  url = "/timeless-guidance"
+#  label = "Explore: Timeless Guidance >>"
 
 +++
 
-The timeless guidance of the ancient seers shows us that Yoga is spiritual practice is ...
-
-**action towards freedom ...  
-movement towards stillness ...  
-doing towards being ...**
+Exploración de temas, herramientas y técnicas útiles para apoyar y profundizar la vida moderna, y experimentar La Verdad, basado en la espiritualidad práctica y clásica

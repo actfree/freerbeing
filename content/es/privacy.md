@@ -1,7 +1,7 @@
 ---
-title: Privacy Policy
+title: Política de privacidad
 date: "2018-06-28T00:00:00+01:00"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,9 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Este sitio web no recoge ningún dato personal identificable\
+Recojo datos de acceso anónimos para poder evaluar el rendimiento de los sitios web\
+Nunca venderé o transferiré los datos recogidos
+
+El proveedor de contenidos de mi sitio web también puede recopilar datos anónimos\
+Están obligados a cumplir la legislación europea de protección de datos

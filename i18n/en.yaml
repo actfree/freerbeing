@@ -230,10 +230,10 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: This website uses minimal cookies.
 
 - id: cookie_dismiss
-  translation: Got it!
+  translation: Ok, thanks!
 
 - id: cookie_learn
-  translation: Learn more
+  translation: Privacy policy here

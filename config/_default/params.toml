@@ -63,7 +63,7 @@ show_related = {docs = false, page = false, post = true, project = false, public
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+# {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 ############################
