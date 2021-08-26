@@ -1,9 +1,9 @@
 ---
-title: "Three Ways to Know"
-subtitle: "The purpose of spiritual practice is to come to know"
-summary: "With knowing we achieve wisdom, and wisdom bestows such gifts as freedom, joy and harmony"
+title: "Tres formas de saber"
+subtitle: "El propósito de la práctica espiritual es llegar a conocer"
+summary: "Con el conocimiento alcanzamos la sabiduría, y la sabiduría otorga regalos como la libertad, la alegría y la armonía"
 authors: []
-tags: ["knowing", "Samkhya", Yoga sutras"]
+tags: ["saber", "Samkhya", Yoga sutras"]
 categories: []
 date: 2021-08-18T20:03:21+01:00
 lastmod: 2021-08-18T20:03:21+01:00
@@ -16,23 +16,23 @@ image:
   preview_only: false
 
 ---
-The purpose of spiritual practice is to come to know\
-With knowing we achieve wisdom\
-Wisdom bestows such gifts as freedom, joy and harmony
+El propósito de la práctica espiritual es llegar a conocer\
+Con el conocimiento alcanzamos la sabiduría\
+La sabiduría otorga dones como la libertad, la alegría y la armonía
 
-There are three ways in which we can come to a knowing;
+Hay tres maneras de llegar a un conocimiento;
 
-- **Inference/deduction**\
-Someone enters the house dripping wet, we can infer that it is raining
-- The **valid testimony** of a trusted other\
-A person we trust tells us "It is raining"
-- **Direct personal experience**\
-We go outside and experience the rain
+- **Inferencia/deducción**
+Si alguien entra en casa empapado, podemos deducir que está lloviendo
+- El **testimonio válido** de una persona de confianza
+Una persona de confianza nos dice "Está lloviendo"
+- La experiencia personal directa
+Salimos a la calle y experimentamos la lluvia
 
-Of these three, direct experience is the superior knowing\
-We can gain direct experience of Inner Truth by consistent committed and appropriate practice
+De estos tres, la experiencia directa es el conocimiento superior\
+Podemos obtener una experiencia directa de la Verdad Interior mediante una práctica adecuada y comprometida
 
-### References;
+### Referencias;
 
 >sāmānyataḥ tu dṛṣṭāt-atīndriyāṇāṃ pratītiḥ anumānāt\
 >tasmāt-api ca-asiddhaṃ parokṣam-āpta-āgamāt-siddham\
