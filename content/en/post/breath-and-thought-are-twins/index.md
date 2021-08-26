@@ -1,29 +1,20 @@
 ---
-title: "Breath and Thought Are Twins"
+title: "Breath and Thought are Twins"
 subtitle: "Breath is central to yoga because breath is central to life"
 summary: "This is a two-way street with which we can work to our benefit"
 authors: []
-tags: ["breath", "thought"]
+tags: ["breath", "thought", "practice"]
 categories: []
 date: 2021-08-12T19:07:51+01:00
 lastmod: 2021-08-12T19:07:51+01:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects: []
 ---
 ## Breath and thought are inseparably connected
 
@@ -48,4 +39,4 @@ allows more space for pure experience and the
 resultant peace and contentment
 
 >*"Breath is central to yoga because breath is central to life"*\
->T Krishnamacarya
+>**T Krishnamacarya**

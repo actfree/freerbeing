@@ -3,7 +3,7 @@ title: Understanding the Gunas
 subtitle: A clear understanding of the *gunas* is fundamental to the practice of Yoga.
 summary: ''
 authors: []
-tags: [test02]
+tags: []
 categories: []
 date: 2020-09-18T13:00:20.000Z
 lastmod: 2020-09-18T13:00:20.000Z

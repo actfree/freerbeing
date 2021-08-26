@@ -34,7 +34,7 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 
 
 summaryLength = 24  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 12  # Number of items per page in paginated lists.
+paginate = 36  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -71,7 +71,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 90
+  quality = 92
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.

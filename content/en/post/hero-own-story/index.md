@@ -1,52 +1,55 @@
 ---
 title: "You are the Hero of Your Own Story"
-subtitle: ""
-summary: ""
+subtitle: "Myths from many eras and cultures share fundamental elements"
+summary: "Many myths from many ages and cultures deal with the spiritual evolution of an individual using archetypes, allegory and symbolism"
 authors: []
-tags: []
+tags: ["mythology", "paths"]
 categories: []
 date: 2021-08-14T15:21:57+01:00
 lastmod: 2021-08-14T15:21:57+01:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects: []
 ---
+Mythological story-telling is common across all cultures\
+Stories from around the globe and from many eras share a fundamental structure, themes and meanings\
+Joseph Campbell called this phenomenon the "Monomyth"
 
-myths from around the globe share a fundamental structure, the Monomyth.
+Myths from many ages and cultures deal with the spiritual evolution of an individual using archetypes, allegory and symbolism\
+From The Odyssey to Star Wars to Sleeping Beauty, from Congo to China, India to Ireland, the hero goes through common archetypal experiences as they achieve their goals
 
-Mythological story-telling is common across all cultures
-All the many myths from many ages and cultures deal with the spiritual evolution of an individual in terms
+The great variety of symbolism in these stories refers to the universal inner journey towards Deepest Truth and the various landmarks and stages involved in that journey
 
-From Jason and the Argonauts to Star Wars, the hero goes through a common experience as they achieve their goals
-From Congo to China, India to Ireland
+Stories typically follow a three-stage process, each stage comprising some or all sub-stages:
 
-Many symbols refer to the path/journey towards self-realisation
-Represented as a Holy Grail or a Golden Fleece
+### The Leaving or Separation
 
-Universal motif that runs through the world's mythic traditions
+There is a change in the hero's usual mundane life\
+ A call to adventure, a trauma, perhaps a supernatural message\
+ The hero departs, sometimes reluctantly, their familiar surroundings, and finds themselves fully, inescapably, in a new life, a new world of adventure
 
-This is the goal of all spiritual practice
+### The Initiation
 
-The elements of the story are the same
+Our hero passes through a number of challenges, trials and tests\
+We may see the search for a physical object, such as a Holy Grail, Herculean-type tests of physical or mental strength, traps and pitfalls to overcome, meetings with supernatural beings or gods\
+A transformation of some kind comes, such as slaying the dragon, marriage to the princess, or even death and rebirth\
+At last they achieve their goal
 
-The Monomyth is a method of story telling that is innate to humans. Cultures from around the world share it’s structure in their stories. Every human, whether they are aware of it or not, is on their own hero’s journey. By studying myths  we can better our own understanding of the tests, trials, and progress along our journey.
+### The Return
 
+The hero returns to his previous world, but changed, whole, a master of life\
+They are free of previous limitations and are qualified to show others the way of the hero
 
+The theory of a Monomyth reveals a method of story-telling that is innate to all cultures depicting the universal evolutionary challenges for all humans as they traverse life\
+Every human, whether they are aware of it or not, is on their own hero’s quest\
+By studying myths, and enjoying stories, we can better understand the tests and trials of our own life, as we relate to the heroes that have passed along the path before us
 
+### References;
 
-**The Hero with a Thousand Faces.**\
+**The Hero with a Thousand Faces**\
 Joseph Campbell 1949
