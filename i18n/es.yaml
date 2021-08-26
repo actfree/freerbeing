@@ -123,8 +123,8 @@
 - id: 404_recommendations
   translation: ¿Buscabas una de éstas?
 - id: cookie_message
-  translation: Este sitio web utiliza cookies para garantizarle una mejor experiencia.
+  translation: Este sitio web utiliza un mínimo de cookies.
 - id: cookie_dismiss
-  translation: Entendido!
+  translation: Ok, gracias!
 - id: cookie_learn
   translation: Más información
