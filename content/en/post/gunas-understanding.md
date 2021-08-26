@@ -8,7 +8,7 @@ categories: []
 date: 2020-09-18T13:00:20.000Z
 lastmod: 2020-09-18T13:00:20.000Z
 featured: false
-draft: true
+draft: false
 image:
   caption: ''
   focal_point: ''
