@@ -25,7 +25,7 @@ Esto requiere tiempo\
 Hacemos nuestro trabajo diario, sin buscar resultados concretos, y avanzamos con paso firme y seguro\
 A veces, incluso, retrocediendo
 
-Para el practicante dedicado y comprometido puede haber, a veces, grandes pasos, incluso saltos cuánticos, de evolución personal.
+Para el practicante dedicado y comprometido puede haber, a veces, grandes pasos, incluso saltos cuánticos, de evolución personal
 Podemos pasar por "hitos" reconocidos en el camino espiritual, como una apertura de la kundalini o una experiencia de samadhi\
 Sin embargo, incluso una experiencia, un cambio o una realización tan "grandes", que tal vez duren unos instantes (medidos en "tiempo normal"), pueden tardar años en integrarse por completo, y no significan el final del camino
 

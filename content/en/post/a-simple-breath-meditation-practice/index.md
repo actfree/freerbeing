@@ -17,7 +17,7 @@ image:
 
 ---
 - Sit with an upright spine and comfortable base, on the floor with a cushion if you can be comfortable, or in an upright chair
-- Set a timer at an length that is appropriate for you
+- Set a timer at a length that is appropriate for you
 - Close your eyes
 - Focus your attention on the breath as it moves in and out of your nose
 - When you notice that the mind has wandered, as it certainly will, gently bring your focus back to the breath

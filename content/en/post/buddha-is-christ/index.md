@@ -19,7 +19,7 @@ image:
 Christ is not Jesus' surname\
 The word "Christ" refers to the reaching of a higher state of being/consciousness
 
-The name of the person we call "Buddha" was actually called Shakyamuni Siddharta Gotama\
+The name of the person we call "Buddha" was Shakyamuni Siddharta Gotama\
 Again, "Buddha" refers to a state of illuminated being
 
 These words are an acknowledgment, an accolade, an honorific given to one achieving a full realisation of our common human Inner Truth
