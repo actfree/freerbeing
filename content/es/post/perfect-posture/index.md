@@ -18,7 +18,7 @@ image:
 **La palabra sánscrita para postura es 'āsana'**.
 
 Viene de la raíz 'ās'... sentarse, demostrando que los antiguos videntes se centran en la práctica sentada\
-La práctica moderna del yoga enfatiza, para bien o para malel movimiento y la respiración
+La práctica moderna del yoga enfatiza, para bien o para mal el movimiento y la respiración
 
 Ya sea en la meditación/respiración sentada, o durante la práctica trabajo corporal/āsana, hay dos elementos de la postura, primero el trabajo que realizamos para lograr la estabilidad, y segundo, el florecimiento de un espacio
 

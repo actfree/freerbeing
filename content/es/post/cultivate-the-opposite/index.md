@@ -29,8 +29,8 @@ Cultivar actitudes positivas es más eficaz que luchar contra las negativas
 >vitarka-bādhane pratipakṣa-bhāvanam\
 >**Yoga sutras II:33**
 
->*"Conquista la ira con el no-ira
-> Conquistar la maldad con la bondad
->Conquistar la mezquindad con la generosidad
->Conquista la deshonestidad con la verdad "*.
+>*"Conquista la ira con el no-ira\
+> Conquistar la maldad con la bondad\
+>Conquistar la mezquindad con la generosidad\
+>Conquista la deshonestidad con la verdad "*.\
 > **Buddha Siddharta Gotama**

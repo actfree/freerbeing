@@ -1,0 +1,8 @@
+# Font style metadata
+name = "Myfonts"
+
+# Font families
+heading_font = "Arizonia"
+body_font = "Ubuntu"
+nav_font = "Ubuntu"
+mono_font = "Ubuntu"

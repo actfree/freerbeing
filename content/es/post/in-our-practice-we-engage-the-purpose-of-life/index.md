@@ -19,7 +19,7 @@ image:
 ## ¿Por qué la vida?
 ## ¿Por qué nuestras vidas individuales?
 
-Según la ciencia Védica *Samkhya*, la realidad consta de dos aspectos fundamentales, y siempre distintos;\
+Según la ciencia védica *Samkhya*, la realidad consta de dos aspectos fundamentales, y siempre distintos;\
 **Espíritu/Vidente/*Purusha* y Naturaleza/Vista/*Prakriti***
 
 Es la interacción de estos elementos lo que impulsa la creación y, por tanto, nuestra vida individual.
