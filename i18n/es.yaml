@@ -125,6 +125,6 @@
 - id: cookie_message
   translation: Este sitio web utiliza un mínimo de cookies.
 - id: cookie_dismiss
-  translation: Ok, gracias!
+  translation: Ok!
 - id: cookie_learn
   translation: Más información
