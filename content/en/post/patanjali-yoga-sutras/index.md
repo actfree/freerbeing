@@ -1,6 +1,6 @@
 ---
 title: "Patañjali's Yoga Sutras"
-subtitle: "Patanjali defines Yoga, what it is for, what it does and what principles are required to practice it"
+subtitle: "Patanjali defines yoga, what it is for, what it does and what principles are required to practice it"
 summary: "It is the original self-help manual"
 authors: []
 tags: ["yoga sutras", "Patanjali"]
@@ -18,17 +18,17 @@ image:
 ---
 Patañjali was, so the story goes, a great sage, or maybe a number of sages, or maybe a lineage using the name as a title ... the actual history is shrouded in the mists of time, and the subject of many a scholarly debate
 
-Regardless of the exact origin, Patañjali was the first to write down the teachings of Yoga, c500bce approx\
+Regardless of the exact origin, Patañjali was the first to write down the teachings of yoga, c500bce approx\
 His work is a compilation of accumulated Vedic wisdom previously taught orally, on a teacher-student one-to-one basis, by means of chanting\
 His primary reference was the ancient Vedic science-philosophy "Samkhya"\
-The Yoga Sutras are applied Samkhya\
+The yoga Sutras are applied Samkhya\
 
 All modern yoga practice, and indeed many other systems of spirituality, recognise and acknowledge the work of Patañjali for the critical influence it has had, and continues to have, in the world of spiritual practice and philosophy
 
-Composed of 196 succinct verses which are dense with wisdom/information they are widely considered to be the core text from which modern Yoga practice is derived\
+Composed of 196 succinct verses which are dense with wisdom/information they are widely considered to be the core text from which modern yoga practice is derived\
 There are a great many commentaries and translations, ancient and modern, from disciples, scholars and students all over the world
 
-Patanjali defines Yoga, what it is for, what it does and what principles are required to practice it\
+Patanjali defines yoga, what it is for, what it does and what principles are required to practice it\
 It contains no recommendations for specific techniques, but lays out the foundational precepts on which so many systems of yoga are built\
 In order to truly benefit from the practice of yoga, and of great utility on any spiritual path, a working knowledge of these axioms is of tremendous value, empowering the practitioner with greater competency and understanding\
 It is the original self-help manual
@@ -36,6 +36,6 @@ It is the original self-help manual
 The verse/sutra below is the very first in the work\
 Patañjali declares his subject and his authority over it
 
->**Yoga sutras 1:01**\
+>**yoga sutras 1:01**\
 >atha yoga-anu-śāsanam\
->Herein follow the teachings of Yoga
+>Herein follow the teachings of yoga
