@@ -21,7 +21,7 @@ Patañjali was, so the story goes, a great sage, or maybe a number of sages, or 
 Regardless of the exact origin, Patañjali was the first to write down the teachings of yoga, c500bce approx\
 The work is a compilation of accumulated Vedic wisdom previously taught orally, on a teacher-student one-to-one basis, by means of chanting\
 The primary reference was the ancient Vedic science-philosophy "Samkhya"\
-The yoga Sutras are applied Samkhya\
+The yoga Sutras are applied Samkhya
 
 All modern yoga practice, and indeed many other systems of spirituality, recognise and acknowledge the work of Patañjali for the critical influence it has had, and continues to have, in the world of spiritual practice and philosophy
 
