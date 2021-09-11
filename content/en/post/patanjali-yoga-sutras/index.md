@@ -16,8 +16,7 @@ image:
   preview_only: false
 
 ---
-Patañjali was, so the story goes, a great sage, or maybe a number of sages, or maybe a lineage using the name as a title ...
-The actual history is shrouded in the mists of time, and the subject of many a scholarly debate
+Patañjali was, so the story goes, a great sage, or maybe a number of sages, or maybe a lineage using the name as a title ... the actual history is shrouded in the mists of time, and the subject of many a scholarly debate
 
 Regardless of the exact origin, Patañjali was the first to write down the teachings of Yoga, c500bce approx
 His work is a compilation of accumulated Vedic wisdom previously taught orally, on a teacher-student one-to-one basis, by means of chanting
