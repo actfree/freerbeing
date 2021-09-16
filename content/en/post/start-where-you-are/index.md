@@ -22,7 +22,7 @@ image:
 At any point, in order to progress, we are best served
 by accepting the reality of our current situation\
 We assess where we are and decide what we most need\
-This is true for short-term and longer term goals
+This is true for short-term and longer-term goals
 
 **What will serve me best?**\
 This enables us to employ the most suitable principles

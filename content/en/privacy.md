@@ -13,7 +13,8 @@ header:
 ---
 
 This website collects no personally identifiable data whatsoever\
-I do collect anonymous access data so I can assess the websites performance\
+It does collect anonymous access data so I can assess the websites' performance\
+This data is only collected with your specific permission\
 I will never sell or otherwise pass-on any such data collected
 
 My website content delivery provider may also collect anonymous data\
