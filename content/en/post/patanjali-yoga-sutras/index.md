@@ -5,8 +5,8 @@ summary: "It is the original self-help manual"
 authors: []
 tags: ["yoga sutras", "Patanjali"]
 categories: []
-date: 2021-09-09T18:33:35+01:00
-lastmod: 2021-09-09T18:33:35+01:00
+date: 2021-09-09T17:33:35+01:00
+lastmod: 2021-09-09T17:33:35+01:00
 featured: false
 draft: false
 
