@@ -3,7 +3,7 @@ title: "You are the Hero of Your Own Story"
 subtitle: "Myths from many eras and cultures share fundamental elements"
 summary: "Many myths from many ages and cultures deal with the spiritual evolution of an individual using archetypes, allegory and symbolism"
 authors: []
-tags: ["mythology", "paths"]
+tags: ["mythology", "paths", "hero's journey"]
 categories: []
 date: 2021-08-14T15:21:57+01:00
 lastmod: 2021-08-14T15:21:57+01:00
