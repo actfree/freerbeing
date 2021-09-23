@@ -3,7 +3,7 @@ title: "Three Conscious Breaths"
 subtitle: "A quick, simple and effective practice"
 summary: "We can consciously change negative and unpleasant thoughts and feelings by deliberately breaking their flow"
 authors: []
-tags: ["practice", "breath"]
+tags: ["practice", "breath", "meditation"]
 categories: []
 date: 2021-08-23T18:40:33+01:00
 lastmod: 2021-08-12T18:40:33+01:00

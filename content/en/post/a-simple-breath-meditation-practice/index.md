@@ -3,7 +3,7 @@ title: "A Simple Breath Meditation Practice"
 subtitle: "Focus your attention on the breath as it moves in and out of your nose"
 summary: "The goal is to focus attention, not to stop thoughts altogether"
 authors: []
-tags: ["practice", "breath"]
+tags: ["practice", "breath", "meditation"]
 categories: []
 date: 2021-08-18T20:03:09+01:00
 lastmod: 2021-08-12T19:26:46+01:00

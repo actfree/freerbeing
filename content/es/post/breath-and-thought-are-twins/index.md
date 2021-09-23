@@ -3,7 +3,7 @@ title: "La respiración y el pensamiento son gemelos"
 subtitle: "La respiración es fundamental para el yoga porque la respiración es fundamental para la vida"
 summary: "Se trata de una vía de doble sentido con la que podemos trabajar en nuestro beneficio"
 authors: []
-tags: ["la respiración", "pensamiento", "practica"]
+tags: ["la respiración", "pensamiento", "practica","meditación"]
 categories: []
 date: 2021-08-12T19:07:51+01:00
 lastmod: 2021-08-12T19:07:51+01:00

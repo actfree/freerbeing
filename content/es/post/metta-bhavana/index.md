@@ -3,7 +3,7 @@ title: "Meditación de la Bondad Amorosa"
 subtitle: "Que todos los seres sean felices"
 summary: "El cultivo de sentimientos positivos de amor hacia los demás funciona para apoyarnos, y apoyar a los demás, en nuestro camino hacia la libertad"
 authors: []
-tags: []
+tags: ["meditación"]
 categories: []
 date: 2021-09-23T12:25:57+01:00
 lastmod: 2021-09-23T12:25:57+01:00
