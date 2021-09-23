@@ -11,7 +11,7 @@ featured: false
 draft: false
 
 ---
-El cultivo de sentimientos positivos de amor hacia los demás nos ayuda a recorrer nuestro camino hacia la libertad
+El cultivo de sentimientos positivos de amor hacia los demás funciona para apoyarnos, y apoyar a los demás, en nuestro camino hacia la libertad
 
 Es tradicional en la meditación budista terminar la meditación regular con una meditación del corazón\
 Esta práctica se conoce como **Metta Bhavana**\
