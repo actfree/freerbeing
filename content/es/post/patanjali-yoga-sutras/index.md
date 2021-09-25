@@ -21,7 +21,7 @@ Patañjali fue, según la historia, un gran sabio, o tal vez una serie de sabios
 Independientemente del origen exacto, Patañjali fue el primero en poner por escrito las enseñanzas del yoga, hace alrededor de 2500 años\
 La obra es una compilación de la sabiduría védica acumulada y enseñada previamente de forma oral, de forma individual entre maestro y alumno, mediante cantos\
 La principal referencia fue la antigua ciencia-filosofía védica "Samkhya"
-Los yoga Sutras son Samkhya aplicado
+Los Yoga Sutras son Samkhya aplicado
 
 Toda la práctica moderna del yoga, y de hecho muchos otros sistemas de espiritualidad, reconocen y agradecen la obra de Patañjali por la influencia decisiva que ha tenido, y sigue teniendo, en el mundo de la práctica espiritual y la filosofía
 

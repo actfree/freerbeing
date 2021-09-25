@@ -10,11 +10,6 @@ lastmod: 2021-09-25T13:20:53+01:00
 featured: false
 draft: false
 
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
 ---
 Richard Rohr is a Franciscan monk who is well known for his writings on manhood and sacred initiation on the hero's journey\
 Rohr summarised a lifetime's work into the following maxims that distinguish men from boys\
