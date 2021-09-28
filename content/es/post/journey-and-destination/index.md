@@ -3,7 +3,7 @@ title: "Viaje y Destino"
 subtitle: "El asentamiento de la mente en el silencio"
 summary: "Patañjali comienza los Yoga Sutras con lo que podemos llamar una 'definición clásica' del yoga"
 authors: []
-tags: ["Patanjali", "yoga sutras"]
+tags: ["Patañjali", "yoga sutras"]
 categories: []
 date: 2021-09-27T18:18:54+01:00
 lastmod: 2021-09-27T18:18:54+01:00
@@ -61,3 +61,9 @@ Patañjali pasa a ofrecer un espectro muy amplio de posibles procesos, principio
 Si no trabajamos para aquietar/calmar/dominar la mente para progresar espiritualmente no estamos, en el sentido clásico de la palabra, practicando yoga
 
 ### Referencias;
+
+>yogaḥ citta-vṛtti-nirodhaḥ\
+>**Yoga sutras 01:02**
+
+>tadā draṣṭuḥ svarūpe-avasthānam\
+>**Yoga sutras 01:03**
