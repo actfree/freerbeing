@@ -43,9 +43,9 @@ I discuss these goals and principles here: [What Makes Yoga Yoga?]({{< ref "what
 So then ... if we are working to achieve Union/Wholeness through clearing/taming the mind, then a particular physical position or exercise may qualify as Yoga.
 Given that our intention is such then any posture/exercise must also incorporate the principles following in order to qualify as Yoga.
 
-2. Patanjali's principles of technique.
+2. Patañjali's principles of technique.
 
-Patanjali gives us his definition of Yoga posture/**asana**:
+Patañjali gives us his definition of Yoga posture/**asana**:
 
 ### YS 2:46
 
@@ -77,16 +77,16 @@ We can say that *sthira* and *sukha* are both means and ends within a posture.
 When we work to establish these two fundamental conditions in our posture then we can call it Yoga, the practice, the journey.
 And once we have successfully accomplished the balance of these two defining principles then a posture is mastered and we can call it Yoga, Union, the destination.
 
-In the following two sutras Patanjali goes on to say (using my words and combining the two sutras):
+In the following two sutras Patañjali goes on to say (using my words and combining the two sutras):
 That we should focus on the infinite in us (our Soul/*Purusha*) ... and that then we will come to deeper understandings of the manifest world/universe.
 
-In the 196 verses of the Yoga Sutras, Patanjali only mentions posture/*asana* four times (and once of those is just to say that it exists).
-Although, with typical brevity, Patanjali says no more about posture/*asana*, he gives us a great deal of scope to work with.
+In the 196 verses of the Yoga Sutras, Patañjali only mentions posture/*asana* four times (and once of those is just to say that it exists).
+Although, with typical brevity, Patañjali says no more about posture/*asana*, he gives us a great deal of scope to work with.
 I will be discussing his recommendations about *asana*, and how we can successfully employ them in our practice, in more detail in future articles.
 
 Can we say then, that any physical exercise, not just the usually-quoted 84 or so, can be called Yoga if we make it so by applying the criteria above.
 I think we can.
-Patanjali certainly does not say that we cannot, and give no specific instruction on the actual form of any *asana*.
+Patañjali certainly does not say that we cannot, and give no specific instruction on the actual form of any *asana*.
 
 Many of the postures, particularly the standing postures, that we employ today are not old, dating back perhaps some 100 years or so.
 Mark Singleton's fascinating book 'Yoga Body' does a great job of examining the origins of modern Yoga postures.

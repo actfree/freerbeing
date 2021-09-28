@@ -1,9 +1,9 @@
 ---
 title: "Los Yoga Sutras de Patañjali"
-subtitle: "Patanjali define el yoga, para qué sirve, qué hace y qué principios se requieren para practicarlo"
+subtitle: "Patañjali define el yoga, para qué sirve, qué hace y qué principios se requieren para practicarlo"
 summary: "Es el manual original de autoayuda"
 authors: []
-tags: ["yoga sutras", "Patanjali"]
+tags: ["yoga sutras", "Patañjali"]
 categories: []
 date: 2021-09-09T17:33:35+01:00
 lastmod: 2021-09-09T17:33:35+01:00
@@ -28,7 +28,7 @@ Toda la práctica moderna del yoga, y de hecho muchos otros sistemas de espiritu
 Compuesto por 196 versos sucintos y llenos de sabiduría e información, se considera el texto central del que se deriva la práctica moderna del yoga\
 Hay un gran número de comentarios y traducciones, antiguas y modernas, de discípulos, eruditos y estudiantes de todo el mundo
 
-Patanjali define el yoga, para qué sirve, qué hace y qué principios se requieren para practicarlo\
+Patañjali define el yoga, para qué sirve, qué hace y qué principios se requieren para practicarlo\
 No contiene recomendaciones de técnicas específicas, sino que expone los preceptos fundamentales sobre los que se construyen tantos sistemas de yoga\
 Para beneficiarse realmente de la práctica del yoga, y de gran utilidad en cualquier camino espiritual, un conocimiento práctico de estos axiomas es de enorme valor, dotando al practicante de mayor competencia y comprensión\
 Es el manual original de autoayuda

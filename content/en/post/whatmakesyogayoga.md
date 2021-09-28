@@ -19,7 +19,7 @@ image:
   preview_only: false
 ---
 
-In the Yoga Sutras Patanjali jumps straight in at the beginning with a definition of Yoga and what it does.
+In the Yoga Sutras Patañjali jumps straight in at the beginning with a definition of Yoga and what it does.
 I've picked a few translations and then add my own thoughts
 
 ### YS 1:2
@@ -87,7 +87,7 @@ We are governed by our conditioned thinking and our karma.
 
 ### Context
 
-It is important to also appreciate the context in which Patanjali was working.
+It is important to also appreciate the context in which Patañjali was working.
 He does not directly mention the search for deeper truth as this would have been a given.
 Anyone coming to learn the principles and techniques of Yoga would have been a seeker and would have taken this assumption for granted.
 This is not the case today.

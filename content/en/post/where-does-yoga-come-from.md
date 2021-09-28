@@ -67,12 +67,12 @@ Yoga is one of six orthodox Vedic philosophies (called <em>darshana</em> - viewp
 These six combine to form a complete, practical, philosphical expression of Truth and the way to go about finding It.
 (Buddhism is an example of an unorthodox Vedic philosophy.)
 
-**The Yoga Sutras of Patanjali**
+**The Yoga Sutras of Patañjali**
 
-The great sage Patanjali was the first to write the teachings of Yoga down, c500bce.
+The great sage Patañjali was the first to write the teachings of Yoga down, c500bce.
 His work is a compilation of Vedic wisdom previously taught orally, by chanting.
 The 196 succinct verses are dense with wisdom/information and are widely considered to be the core text from which modern Yoga practice is derived.
-Patanjali defines Yoga, what it is for, what it does and how to practice it.
+Patañjali defines Yoga, what it is for, what it does and how to practice it.
 It is the original self-help manual.
 
 **Approach #2 - Spiritually**

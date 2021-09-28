@@ -31,7 +31,7 @@ healthy society
 We are, from birth, inter-dependent on others, morality guides us to build healthy and fruitful relationships\
 How we behave towards others reveals our state of mind and our personality
 
-### Patanjali's Yamas:
+### Patañjali's Yamas:
 - Non-harm, non-violence, consideration and kindness
 - Truthfulness, right communication
 - Non-stealing, not taking that which is not ours
