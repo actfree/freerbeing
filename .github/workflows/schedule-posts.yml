@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🐧 This job is to schedule hugo posts on freerbeing website"
-      - run: hugo
+      - run: build
       - run: echo "💡 The ${{ github.repository }} repository has been updated"
       - run: echo "🍏 This job's status is ${{ job.status }}."
