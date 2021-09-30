@@ -30,7 +30,7 @@ Patañjali comienza los Yoga Sutras con lo que podemos llamar una "definición c
 > Paul Harvey
 
 Así que podemos ver que el yoga es un proceso mental y un estado mental
-Es un proceso por el cual la mente llega progresivamente a un estado claro/calmado/contenido/domesticado/domesticado
+Es un proceso por el cual la mente llega progresivamente a un estado claro/calmado/contenido/dominado/domesticado
 
 Y el yoga es ese estado de mente clara/calma/contenida/dominada/domesticada
 
