@@ -1,14 +1,13 @@
 name: GitHub Schedule Hugo Posts
 on:
-  push:
-    branches:
-    - master
   schedule:
     - cron: '*/3 * * * *' # Once per day at 05.15hr
 jobs:
-  Explore-GitHub-Actions:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🐧 This job is to schedule hugo posts on freerbeing website"
-      - run: echo "💡 The ${{ github.repository }} repository has been updated automatically"
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Trigger our build webhook on Netlify
+        run: curl -s -X POST "https://api.netlify.com/build_hooks/${TOKEN}"
+        - run: echo "🍏 This schedule job's status is ${{ job.status }}."
+        env:
+          TOKEN: ${{ secrets.NETLIFY_CRON_BUILD_HOOK }}
