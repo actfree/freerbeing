@@ -2,7 +2,7 @@ name: Cron build
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "6 4 * * *" #daily build trigger at 04.06amUTC
 
 jobs:
   build:
