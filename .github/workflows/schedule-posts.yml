@@ -1,7 +1,7 @@
 name: GitHub Schedule Hugo Posts
 on:
   schedule:
-    - cron: '*/3 * * * *' # Once per day at 05.15hr
+    - cron: '*/1 * * * *' # Once per day at 05.15hr
 jobs:
   build:
     runs-on: ubuntu-latest
