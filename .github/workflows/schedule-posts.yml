@@ -1,7 +1,6 @@
 name: GitHub Schedule Hugo Posts
 on: [push]
-branches:
-    - master
+branches:[master]
   schedule:
     - cron: '*/3 * * * *' # Once per day at 05.15hr
 jobs:
