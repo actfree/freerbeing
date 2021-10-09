@@ -32,3 +32,6 @@ No darse cuenta de estas verdades condena al hombre a una vida de infancia
 > Todo el mundo vivo
 > Todo el mundo es bello"
 > >**David Mowaljarlai Am, Ngarinyin anciano**
+
+#### Fuentes
+Manhood, Biddulph, 2015

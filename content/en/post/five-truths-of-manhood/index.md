@@ -30,3 +30,6 @@ Failure to realise these truths condemns a man to a life of childhood
 > Everybody standing up alive\
 > Everybody beautiful"\
 >**David Mowaljarlai Am, Ngarinyin elder**
+
+#### Sources
+Manhood, Biddulph, 2015

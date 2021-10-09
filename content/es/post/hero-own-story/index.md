@@ -49,7 +49,6 @@ La teoría de un monomito revela un método de narración innato a todas las cul
 Todo ser humano, sea o no consciente de ello, está en su propia búsqueda del héroe\
 Estudiando los mitos y disfrutando de las historias, podemos entender mejor las pruebas de nuestra propia vida, al relacionarnos con los héroes que han pasado por el camino antes que nosotros
 
-### Referencias;
-
+#### Fuentes;
 **The Hero with a Thousand Faces**\
 Joseph Campbell 1949

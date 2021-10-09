@@ -49,7 +49,6 @@ The theory of a Monomyth reveals a method of story-telling that is innate to all
 Every human, whether they are aware of it or not, is on their own hero’s quest\
 By studying myths, and enjoying stories, we can better understand the tests and trials of our own life, as we relate to the heroes that have passed along the path before us
 
-### References;
-
+#### Sources;
 **The Hero with a Thousand Faces**\
 Joseph Campbell 1949
