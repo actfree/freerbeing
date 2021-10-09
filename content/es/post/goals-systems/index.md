@@ -8,7 +8,7 @@ categories: []
 date: 2021-10-04T16:34:11+01:00
 lastmod: 2021-10-04T16:34:11+01:00
 featured: false
-draft: false
+draft: true
 
 ---
 It is a valuable thing to have clear, positive aims in life, destinations on our journey\
