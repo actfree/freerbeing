@@ -5,10 +5,10 @@ summary: "As with anything in life success on the spiritual path depends largely
 authors: []
 tags: []
 categories: []
-date: 2021-10-04T16:33:39+01:00
+date: 2021-11-25T16:33:39+01:00
 lastmod: 2021-10-04T16:33:39+01:00
 featured: false
-draft: true
+draft: false
 
 ---
 As with anything in life success on the spiritual path depends largely, if not exclusively, on how much we put in towards achieving our aims\
