@@ -18,17 +18,25 @@ It just happens, right?
 A clearer understanding of the actual mechanics involved can greatly help in achieving a strong and healthy breath\
 Which in turn leads to a strong and healthy life
 
+**Through the nose:**\
+Optimal breathing is achieved through the nose\
+The nose filters, warms and softens the air as it enters our system\
+Breathing through the nose is inherently more calming to the mind
+
+Whilst breathing through the mouth can achieve specific effects in some practices it is generally considered for "emergency use" only, ie when we cannot get enough air into our system quickly enough due to over-exertion, blockage or illness
+
+**Chest and diaphragm:**\
 We breathe primarily with the chest and the diaphragm\
 The abdomen can be of secondary use but is not a prime mover in the process\
 Confusion around this can lead to inefficient breathing and a wasting of energy
 
-The process is as follows;
+### The process is as follows;
 
 **As we inhale:**
 - The ribcage expands by the action of the intercostal muscles
 - The diaphragm contracts (though this may seem counter-intuitive) and pushes downwards
 
-  The downwards action of the diaphragm causes the abdomen to push out and it may appear to expand\
+  The abdomen may push out and appear to expand due to the  downwards action of the diaphragm\
   But there is no cavity for the air to enter which would cause the abdomen to expand\
   It can only change shape, and is not actively required for the inhalation
 
@@ -41,7 +49,9 @@ The process is as follows;
 In yoga asana and pranayama we learn to employ the abdomen to strengthen and support the exhalation\
 This aspect of practice is also physically strengthening, including to our core musculature
 
-Techniques involving forceful exhalation, such as bhastrika and kapalabhati, can be of great value, properly practised, but forceful use of the abdomen is not required for normal daily breathing
+Techniques involving forceful abdominal exhalation, such as bhastrika and kapalabhati, can be of great value, properly practised, but forceful use of the abdomen is not required for normal daily breathing
+
+**Note:**
 
 The technique of "belly-breathing", (ie "inhaling into the abdomen") whilst perhaps having some value for some people by visualisation of the deepening of breathing, is potentially confusing and can mis-direct the attention from where it is most effectively placed
 

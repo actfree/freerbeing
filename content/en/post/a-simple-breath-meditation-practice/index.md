@@ -24,7 +24,7 @@ image:
 - Repeat 2x daily, morning and evening
 
 ### Notes:
-Repetition is key to success
+Repetition is key to successs
 
 Do not change or alter the natural rhythm of your breath, let it be as it will
 

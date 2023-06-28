@@ -30,7 +30,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Practical spirituality"
+site_type = "Practical spirituality, Yoga, Meditation, Consciousness"
 
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.

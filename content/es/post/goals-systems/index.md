@@ -1,6 +1,6 @@
 ---
 title: "Goals, Systems"
-subtitle: "Positive habits are the bicycle, not the road"
+subtitle: "Positive habits are like a bicycle, efficiently supporting us to move speedily along the path to our destination"
 summary: "A goal to work towards gives us the structure and direction essential to arrival at success"
 authors: []
 tags: []
@@ -11,31 +11,35 @@ featured: false
 draft: true
 
 ---
+**Goals:**\
 It is a valuable thing to have clear, positive aims in life, destinations on our journey\
-A goal to work towards gives us the structure and direction essential to arrival at success
+A goal to work towards gives us the structure and direction essential to arrival at success\
+This is true whether or not we actually attain to the goal
 
-This is true whether or not we actually attain to the goal\
-Regular systems that develop positive habits that will lead us in the direction of those goals can actually be of greater value
+**Systems:**\
+However, regular systems that develop positive habits that will lead us in the direction of those goals can actually be of greater value than simply setting goals
 
-Regularity and repetition in our behaviour causes actual physical changes in our brains\
+Regularity and repetition in our behaviour causes actual physical changes in our brains, and thus our minds\
 The areas of the brain and the neurons that we employ grow and strengthen with this use, like muscles responding to exercise\
-This is known as Hebb's Law: *"Neurons that fire together wire together"*
+In this way we create and develop positive habits
 
+Patanjali's Yoga Sutra is an example of a classical system
+
+**Positive habits:**\
 Positive habits are the vehicle by which progress is achieved\
 They give us the means to move forward towards where we want to be\
-They are the bicycle, not the road
+They are like a bicycle, efficiently supporting us to move speedily along the path to our destination
 
 In developing these we will likely find that our more "negative" habits will weaken and disappear without direct attention to them\
 We cultivate the positives, the negatives fade of their own accord
 
-The most important habit to master is that of turning-up\
-The more we do this the easier and more established it becomes\
+The most important habit to nurture is that of "turning-up"\
+The more we do this the easier and more established the developing of positive habits becomes\
 And, inevitably, step-by-step, we progress
 
-We can aim for the perfection of the Buddha, Enlightenment, Perfect Freedom, etc, but need not be disappointed should we not achieve them\
+We can aim for the perfection of the Buddha, Enlightenment, Perfect Freedom, etc, but need not be disappointed should we not achieve them just yet\
 The effort to attain them has improved us
 
-
 >*"Goals are not something necessarily to be achieved\
-> They give us something to aim at*\
+> They give us something to aim at"*\
 > **Bruce Lee**
